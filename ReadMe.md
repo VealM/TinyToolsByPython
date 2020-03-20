@@ -41,5 +41,5 @@ Run it by
 python Bland-Altman.py
 ```
 
-For more details, look into BAplot in [Bland-Altman](./Bland-Altman.py)
+For more details, look into BAplot in [BlandAltman](./BlandAltman.py)
 
